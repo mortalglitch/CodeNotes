@@ -6,7 +6,7 @@ import stuff.to.import;
 
 /**
  * Based on the structure used by many but laid out by
- * Nicolas Gramlich in Andgame Engine
+ * Nicolas Gramlich in AndEngine
  * @author Joshua Neeley
  */
 public class JavaLayout extends Something {
